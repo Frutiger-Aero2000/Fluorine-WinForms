@@ -1,2 +1,2 @@
 # Fluorine-WinForms
-An app named Fluoride (yes, its named after the chemical (F - At.No. 9 -  Fluorine))
+An app named Fluorine (yes, its named after the chemical (F - At.No. 9 -  Fluorine))
